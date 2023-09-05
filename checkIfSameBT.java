@@ -16,6 +16,6 @@ public class checkIfSameBT {
 
         //return the above code for left and right sides and perform logical AND
         return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
-}
+}de
     
 }
